@@ -354,5 +354,9 @@
     "pickImageSourceAndDocumentType": "اختر نوع و مكان المستند",
     "pickImageSource": "اختر ملف او تصوير",
     "pickDocumentType": "اختر نوع المستند",
-    "refresh" : "تحديث"
+    "refresh": "تحديث",
+    "visitsCalender": "نتيجة الزيارات",
+    "selectMonth": "اختر الشهر",
+    "printReciept": "طباعة ايصال",
+    "changeLog": "سجل التحديث"
 }
