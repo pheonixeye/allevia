@@ -362,5 +362,14 @@
     "addDrawingSheet": "اضافة نموذج مرسوم",
     "drawingSheet": "نموذج الرسم",
     "pickDrawingColor": "اختر لون الرسم",
-    "exportToExcel": "تنزيل ملف اكسيل"
+    "exportToExcel": "تنزيل ملف اكسيل",
+    "whatsappSettings" : "اعدادات الواتس ابب",
+    "connectWhatsapp" : "الاتصال بالواتساب",
+    "whatsappDevices" : "الاجهزة المتصلة",
+    "showConnectedwhatsappDevices" : "اظهار اجهزة الواتس ابب المتصلة",
+    "noConnectedDevices" : "لا يوجد اجهزة متصلة",
+    "conntectedToWhatsappServer" : "متصل بخادم الواتس ابب",
+    "notConntectedToWhatsappServer" : "غير متصل بالواتس ابب",
+    "patientVisits" : "زيارات المريض",
+    "send" : "ارسال"
 }
