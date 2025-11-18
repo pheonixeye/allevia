@@ -45,7 +45,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "33c60c8a5371cec2c9f454947dd4c4d1
 "assets/assets/sounds/notification.wav": "65a2df7ab7e7c9f59bf0fa6a20ff2a11",
 "assets/FontManifest.json": "5f307e4038a3450dca80ea36197415e3",
 "assets/fonts/MaterialIcons-Regular.otf": "61e8abc98f7eef119c5a7b254371dc93",
-"assets/NOTICES": "beedb095142a62a00a5fb03989ec260f",
+"assets/NOTICES": "5ac221a06a8f3851f42f697c7d7c7163",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89261c1675d0a81b3f8f53cb9dc7057d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "00a0d5a58ed34a52b40eb372392a8b98",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "5398c916004ff411c47999e192385fbc",
@@ -62,7 +62,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "33c60c8a5371cec2c9f454947dd4c4d1
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.ico": "ae3b18903bb6aacbbdd9cda6297ee0c0",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "edec6e4740c5d309bc40d34b4595d483",
+"flutter_bootstrap.js": "bb4cbb981be5b01ab6ab476b8bb19c4e",
 "icons/android-chrome-192x192.png": "f55474b35aef0d964e5d5e347d88fdda",
 "icons/android-chrome-512x512.png": "64bdb993a13c522b4f1b20de6011623d",
 "icons/apple-touch-icon.png": "8b5bb3d5ae6300a03a1f9ba993c9cf01",
@@ -70,7 +70,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "33c60c8a5371cec2c9f454947dd4c4d1
 "icons/favicon-32x32.png": "b4dba6ed968cf313e52eea55ee2a60a3",
 "index.html": "82d48796cfb09cdcfb0db419d45477a5",
 "/": "82d48796cfb09cdcfb0db419d45477a5",
-"main.dart.js": "12f29ef51a8de3d28cc2a97070e5e541",
+"main.dart.js": "b805c54862d236d3ce015601f159bd67",
 "manifest.json": "0c86feae43b2d3ea71dd42ca6022687b",
 "version.json": "0d08c56d9e4beaaef25b1f4a38f7f6b8"};
 // The application shell files that are downloaded before a service worker can
