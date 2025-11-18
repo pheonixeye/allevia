@@ -379,5 +379,10 @@
     "discountInPounds" : "Discount In Pounds",
     "noDiscountApplied" : "No Discounts Applied",
     "rescheduleVisitShift" : "Reschedule Visit Shift",
-    "sameShiftSelected" : "Same Shift Selected"
+    "sameShiftSelected" : "Same Shift Selected",
+    "notifications" : "Notifications",
+    "addNewNotification" : "Add New Notification",
+    "notificationTitle" : "Notification Title",
+    "notificationMessage" : "Notification Message",
+    "saveToFavorites" : "Save To Favorites"
 }
