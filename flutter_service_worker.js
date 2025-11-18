@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "33c60c8a5371cec2c9f454947dd4c4d1",
-"assets/AssetManifest.bin.json": "7ec2ad862b31f3eb3ae7aec063af5ae1",
-"assets/AssetManifest.json": "bb83379c290f38fdb92b1731b0f51805",
+const RESOURCES = {"assets/AssetManifest.bin": "decbde628bdd86fb6592621e1f1fb6ab",
+"assets/AssetManifest.bin.json": "e59d6eedbe6c7aaed3562e66d20c7fa2",
+"assets/AssetManifest.json": "d46eddd3a3acc2c20368193204061402",
 "assets/assets/fonts/IBM/font-Bold-700.ttf": "3b112e6aa65695f31fa1e1a8fb0589a9",
 "assets/assets/fonts/IBM/font-ExtraLight-200.ttf": "2ac69265ef57c13e2bf7d71f0d86e30b",
 "assets/assets/fonts/IBM/font-Light-300.ttf": "fc8d66d7803c5703326895c99f36aa39",
@@ -42,7 +42,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "33c60c8a5371cec2c9f454947dd4c4d1
 "assets/assets/lang/app_ar.arb": "a96fc3b20fc9300dbcd6e6b9f6e68e2c",
 "assets/assets/lang/app_en.arb": "db9c3f5c552ec49625d1482b759e0803",
 "assets/assets/lang/log.txt": "99914b932bd37a50b983c5e7c90ae93b",
-"assets/assets/sounds/notification.wav": "65a2df7ab7e7c9f59bf0fa6a20ff2a11",
+"assets/assets/sounds/notification.mp4": "2787545fcadb6ccfe31e90139637e999",
 "assets/FontManifest.json": "5f307e4038a3450dca80ea36197415e3",
 "assets/fonts/MaterialIcons-Regular.otf": "61e8abc98f7eef119c5a7b254371dc93",
 "assets/NOTICES": "5ac221a06a8f3851f42f697c7d7c7163",
@@ -62,7 +62,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "33c60c8a5371cec2c9f454947dd4c4d1
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.ico": "ae3b18903bb6aacbbdd9cda6297ee0c0",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "bb4cbb981be5b01ab6ab476b8bb19c4e",
+"flutter_bootstrap.js": "f1725277a53f0d1f90736d584f9c70dc",
 "icons/android-chrome-192x192.png": "f55474b35aef0d964e5d5e347d88fdda",
 "icons/android-chrome-512x512.png": "64bdb993a13c522b4f1b20de6011623d",
 "icons/apple-touch-icon.png": "8b5bb3d5ae6300a03a1f9ba993c9cf01",
@@ -70,7 +70,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "33c60c8a5371cec2c9f454947dd4c4d1
 "icons/favicon-32x32.png": "b4dba6ed968cf313e52eea55ee2a60a3",
 "index.html": "82d48796cfb09cdcfb0db419d45477a5",
 "/": "82d48796cfb09cdcfb0db419d45477a5",
-"main.dart.js": "b805c54862d236d3ce015601f159bd67",
+"main.dart.js": "13dd9390f67e7a3824ca8f84b2a5273f",
 "manifest.json": "0c86feae43b2d3ea71dd42ca6022687b",
 "version.json": "0d08c56d9e4beaaef25b1f4a38f7f6b8"};
 // The application shell files that are downloaded before a service worker can
