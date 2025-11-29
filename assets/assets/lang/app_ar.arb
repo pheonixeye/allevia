@@ -385,5 +385,20 @@
     "notificationMessage" : "تفاصيل التنبيه",
     "saveToFavorites" : "اضافة للمفضلة",
     "doctorAccounts" : "حسابات الاطباء",
-    "noDoctorsFound" : "لم يتم العثور علي حسابات للاطباء"
+    "noDoctorsFound" : "لم يتم العثور علي حسابات للاطباء",
+    "toogleAccountActivityPrompt" : "تغيير نشاط الحساب؟ قد يُعطّل هذا قدرة هذا المستخدم على تسجيل الدخول إلى النظام - هل أنت متأكد؟",
+    "editAccountName" : "تعديل اسم الحساب",
+    "openVisit" : "فتح الزيارة",
+    "@@doctors_page": "",
+    "needSuperAdminPermission" : "تحتاج صلاحيات مدير العيادات",
+    "addNewDoctorAccount" : "اضافة حساب طبيب جديد",
+    "inactive" : "حساب غير مفعل",
+    "@@clinics_page": "",
+    "clinicDoctors" : "اطباء العيادة",
+    "cannotRemoveSelfFromClinicWhileLoggedIn" : "لا يمكن ازالة الحساب الخاص اثناء تسجيل الدخول",
+    "removeDoctorFromClinicPrompt" : "تاكيد ازالة وصول الطبيب للعيادة ؟ هل انت متأكد؟",
+    "toogleAccountActivity" : "تعديل نشاط الحساب",
+    "cannotDeactivateSuperAdminAccount" : "لا يمكن تعديل نشاط حساب مدير العيادات",
+    "viewDocument" : "فتح المستند",
+    "filterVisits" : "فلترة الزيارات"
 }
